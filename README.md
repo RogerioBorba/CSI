@@ -7,7 +7,7 @@
 ## Machine Learning and AI
 ### Courses, tutorials, presentation etc.
 https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados
-Introdução à Ciência de Dados - Conteúdo: O que é ciência de dados;Problemas e soluções em ciência de dados;Ciência de dados e suas etapas;Métodos matemáticos e computacionais;Exemplos reais e Questões éticas em ciência de dado
+Introdução à Ciência de Dados - Conteúdo: O que é ciência de dados; Problemas e soluções em ciência de dados; Ciência de dados e suas etapas; Métodos matemáticos e computacionais; Exemplos reais e Questões éticas em ciência de dado
 #### https://www.streamlit.io/
     Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts
 ## Infrastructure technology
