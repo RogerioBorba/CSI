@@ -8,3 +8,6 @@
 ### Courses, tutorials, presentation etc.
 ### https://www.streamlit.io/
     Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts
+## Infrastructure technology
+### Courses, tutorials, presentation etc.
+https://www.redhat.com/en/services/training-and-certification?learning_options=free_courses
