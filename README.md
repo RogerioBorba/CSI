@@ -4,6 +4,8 @@
   - hale studio - https://github.com/halestudio/hale/
   - Spatial extension for Talend - https://talend-spatial.github.io/
   - stetl - https://github.com/geopython/stetl
+  - https://north-road.com/2020/04/28/slyr-esri-to-qgis-compatibility-suite-april-2020-update/
+
 ## Machine Learning and AI
 ### Courses, tutorials, presentation etc.
 - https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados
