@@ -6,7 +6,8 @@
   - stetl - https://github.com/geopython/stetl
 ## Machine Learning and AI
 ### Courses, tutorials, presentation etc.
-### https://www.streamlit.io/
+https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados
+#### https://www.streamlit.io/
     Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts
 ## Infrastructure technology
 ### Courses, tutorials, presentation etc.
