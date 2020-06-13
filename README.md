@@ -13,6 +13,8 @@ Introdução à Ciência de Dados - Conteúdo: O que é ciência de dados; Probl
 - https://cio.com.br/os-melhores-cursos-gratuitos-de-ciencia-de-dados-durante-a-quarentena/
 Os melhores cursos gratuitos de ciência de dados durante a quarentena
 - https://www.archdaily.com.br/br/937835/recursos-online-gratuitos-para-conhecer-e-se-aprofundar-em-inteligencia-artificial
+Foundations of Data Science
+- https://www.youtube.com/playlist?reload=9&list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc
 Recursos online gratuitos para conhecer e se aprofundar em inteligência artificial
 #### https://www.streamlit.io/
     Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts
