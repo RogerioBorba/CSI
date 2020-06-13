@@ -8,6 +8,7 @@
 
 ## Machine Learning and AI
 ### Courses, tutorials, presentation etc.
+#### Curso introdutório da FGV
 - https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados
 Introdução à Ciência de Dados - Conteúdo: O que é ciência de dados; Problemas e soluções em ciência de dados; Ciência de dados e suas etapas; Métodos matemáticos e computacionais; Exemplos reais e Questões éticas em ciência de dado.
 - https://cio.com.br/os-melhores-cursos-gratuitos-de-ciencia-de-dados-durante-a-quarentena/
