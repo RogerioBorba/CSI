@@ -19,6 +19,8 @@ Conteúdo: O que é ciência de dados; Problemas e soluções em ciência de dad
 #### Recursos online gratuitos para conhecer e se aprofundar em inteligência artificial
 #### https://www.streamlit.io/
     Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts
+### Deep Learnig
+https://atcold.github.io/pytorch-Deep-Learning/
 ## Infrastructure technology
 ### Courses, tutorials, presentation etc.
 https://www.redhat.com/en/services/training-and-certification?learning_options=free_courses
